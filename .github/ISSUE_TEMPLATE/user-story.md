@@ -1,6 +1,6 @@
 ---
 name: User story
-about: Tanış template iş for create user story
+about: This template iş for create user story
 title: ''
 labels: ''
 assignees: ''
